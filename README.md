@@ -1,2 +1,2 @@
 # project
-https://USERNAME.github.io/project
+https://github.com/najafnejadhamid567-ops/project
